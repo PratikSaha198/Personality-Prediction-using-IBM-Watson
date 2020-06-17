@@ -1,5 +1,5 @@
 # Personality-Prediction-using-IBM-Watson
-### Using IBM-Watson PersonalityInsightV3 predicted the likeliness of a wide variety of Personalities based on a Instagram uesr's post captions.
+### Using IBM-Watson PersonalityInsightV3 predicted the likeliness of a wide variety of Personalities based on a Instagram user's post captions. It was a part of a project in HackJaipur 2020 Hackathon.
 
 ## Data Collection :
 ### Steps to reproduce :
