@@ -17,4 +17,4 @@ Download [Chrome Driver](https://chromedriver.chromium.org/downloads) and place 
 4. Open terminal and enter :\
   ```pip install watson-developer-cloud```
 5. After placing your API_KEY , URL , and the text (on which the personality will be predicted) in the appropriate cells , execute [Personality-Prediction-IBM-Watson.ipynb](Personality-Prediction-IBM-Watson.ipynb)
-6. A .csv file is generated displaying the probabilities of a wide range og personalities.
+6. A .csv file is generated displaying the probabilities of a wide range of personalities.
